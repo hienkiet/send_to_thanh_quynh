@@ -1,0 +1,9 @@
+const nameGirl = 'To:Thanh Quynh';
+const giftUrl = 'https://www.facebook.com/groups/165460116804572';
+const eventName = 'Happy 8/3 !!!';
+const titleCard = 'For Thanh Quynh';
+const contentCard = '</br> Quỳnh, cảm ơn cậu ! </br> Tớ rất vui vì được trở thành bạn của cậu và tớ hy vọng sau này vẫn thế !  </br> Mọi khoảnh khắc hạnh phúc sẽ không thể được thực sự trọn vẹn nếu như thiếu đi cậu! Vậy nên , Chúc cậu có ngày 8/3 và 320 ngày còn lại trong năm hạnh phúc. </br></br> From 07.29 with luv';
+const giftImage = 'thanhquynh.jpg';
+const giftBg = 'valentines.jpg'
+const base64 = '';
+const giftImageBase64 = "data:image/jpg;base64, " + base64;
